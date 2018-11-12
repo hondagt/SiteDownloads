@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Sitio estático de descargas
 
-You can use the [editor on GitHub](https://github.com/hondagt/SiteDownloads/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+El fin de este proyecto estático es brindar una facilidad de descarga a los colaboradores internos en Honda
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Carpeta ESSA
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Es el mismo proyecto copiado y pegado para proporcionar soporte de descarga a Honda en el Salvador.
 
 ```markdown
-Syntax highlighted code block
+Realizado en HTML5 jQuery y CSS
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hondagt/SiteDownloads/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
